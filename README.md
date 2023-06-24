@@ -10,7 +10,7 @@ To evaluate the result of the model, we have used Mean Squared Error, and Mean S
 ![image](https://github.com/Adubi/BUS-DRIVER-ASSISTANCE-SYSTEM/assets/44330438/069d0acd-a995-4ec1-b7c0-d9b2ff92b82a)
 
 # Acknowledgement
-the code from this project modified from:
+The code from this project was modified from:
 
 [KITTI Distance estimation](https://github.com/harshilpatel312/KITTI-distance-estimation)
 
