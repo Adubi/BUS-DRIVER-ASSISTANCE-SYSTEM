@@ -7,7 +7,7 @@ To evaluate the result of the model, we have used Mean Squared Error, and Mean S
 
 #  PROJECT POSTER
 
-![image](https://github.com/Adubi/BUS-DRIVER-ASSISTANCE-SYSTEM/assets/44330438/069d0acd-a995-4ec1-b7c0-d9b2ff92b82a)
+![image](https://github.com/Adubi/BUS-DRIVER-ASSISTANCE-SYSTEM/assets/44330438/8f75dd6d-de20-46a7-9139-eb7b9665a353)
 
 # Acknowledgement
 The code from this project was modified from:
