@@ -5,6 +5,10 @@ Aim of this project is to create **Assistance system** for the driver in Autonom
 
 To evaluate the result of the model, we have used Mean Squared Error, and Mean Squared Logarithms Error. The results showed that... as the figure below
 
+#  PROJECT POSTER
+
+![image](https://github.com/Adubi/BUS-DRIVER-ASSISTANCE-SYSTEM/assets/44330438/069d0acd-a995-4ec1-b7c0-d9b2ff92b82a)
+
 # Acknowledgement
 the code from this project modified from:
 
