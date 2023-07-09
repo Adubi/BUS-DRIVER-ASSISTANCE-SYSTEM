@@ -1,5 +1,4 @@
 #  AUTONOMOUS PUBLIC BUS DRIVER ASSISTANCE SYSTEM
-*our project is still in progress*
 
 The aim of this project is to develop an assistance system for drivers in autonomous bus public transportation. Deep learning techniques are employed to create models for object detection (CNN), distance estimation (DNN), and speed estimation (CNN+ OPTICAL FLOW) using data from a monocular camera. The output of these models, which includes object information, distance, and speed, is then utilized as input for predicting the speed of the bus using an Artificial Neural Network (DNN) model.
 
