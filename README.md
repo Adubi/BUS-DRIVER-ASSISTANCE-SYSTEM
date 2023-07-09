@@ -2,6 +2,9 @@
 
 The aim of this project is to develop an assistance system for drivers in autonomous bus public transportation. Deep learning techniques are employed to create models for object detection (CNN), distance estimation (DNN), and speed estimation (CNN+ OPTICAL FLOW) using data from a monocular camera. The output of these models, which includes object information, distance, and speed, is then utilized as input for predicting the speed of the bus using an Artificial Neural Network (DNN) model.
 
+![1st proj](https://github.com/Adubi/BUS-DRIVER-ASSISTANCE-SYSTEM/assets/44330438/fb7149b3-f597-4981-97f7-301ec8623476)
+
+
 ## OBJECT DETECTION
 Object detection was used to make our car able to see like the driver. YOLO is recognized for its speed and accuracy, with it being a single-stage object detector architecture that is composed of three components. For YOLOv5 models it used CSP-Darknet53 as a backbone, SPP and PANet in the model neck and the head. This project uses YOLOv5s model (fast, small).
 
