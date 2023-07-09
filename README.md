@@ -7,7 +7,11 @@ The aim of this project is to develop an assistance system for drivers in autono
 Object detection was used to make our car able to see like the driver. YOLO is recognized for its speed and accuracy, with it being a single-stage object detector architecture that is composed of three components. For YOLOv5 models it used CSP-Darknet53 as a backbone, SPP and PANet in the model neck and the head. This project uses YOLOv5s model (fast, small).
 
 
-https://github.com/Adubi/BUS-DRIVER-ASSISTANCE-SYSTEM/assets/44330438/c8383321-8934-4c72-84c1-4e4cf2940d2f
+
+
+https://github.com/Adubi/BUS-DRIVER-ASSISTANCE-SYSTEM/assets/44330438/176355b6-edf4-44d7-8ea0-4cd06c49c1b9
+
+
 
 
 ## DISTANCE ESTIMATION
